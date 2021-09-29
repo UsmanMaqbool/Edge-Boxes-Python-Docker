@@ -1,7 +1,7 @@
 # Edge-Boxes-Python-Docker
 Docker image and Test Example of Edge Boxes: Locating Object Proposals from Edges
 
-Credits: OpenCV and https://stackoverflow.com/questions/54843550/edge-box-detection-using-opencv-python
+Credits: OpenCV and [Answer at Stackoverflow](https://stackoverflow.com/questions/54843550/edge-box-detection-using-opencv-python)
 
 <p align="center">
   ⭐️ If you like this repository, give it a star on GitHub! ⭐️
@@ -12,7 +12,7 @@ Credits: OpenCV and https://stackoverflow.com/questions/54843550/edge-box-detect
 
 ## Clone
 
-```
+```sh
 git clone https://github.com/UsmanMaqbool/Edge-Boxes-Python-Docker.git
 
 ```
@@ -39,4 +39,6 @@ sudo docker run --gpus all -it \
 ```
 
 ## Run Example
+```py
 python3 edgeboxes_demo.py models/model.yml.gz test.jpg
+```
