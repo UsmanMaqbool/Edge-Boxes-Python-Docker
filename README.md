@@ -1,10 +1,10 @@
 # Edge-Boxes-Python-Docker
 Docker image and Test Example of Edge Boxes: Locating Object Proposals from Edges
 
-Credits: https://stackoverflow.com/questions/54843550/edge-box-detection-using-opencv-python
+Credits: OpenCV and https://stackoverflow.com/questions/54843550/edge-box-detection-using-opencv-python
 
 <p align="center">
-  ⭐️ If you like MAQBOOL, give it a star on GitHub! ⭐️
+  ⭐️ If you like this repository, give it a star on GitHub! ⭐️
   <br>
   <a href="https://twitter.com/MUsmanMBhutta"><img src="https://img.shields.io/twitter/follow/MUsmanMBhutta.svg?style=social" alt="Twitter Follow" /></a>
   <a href="#license"><img src="https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000"></a>
